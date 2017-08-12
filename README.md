@@ -1,2 +1,2 @@
 # DebOM.github.io
-This an personal website to website to demonstrate my porfolio.
+This an personal website to demonstrate my porfolio.

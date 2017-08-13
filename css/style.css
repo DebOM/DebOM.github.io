@@ -10,10 +10,10 @@ Table of contents
   - Main Styles
   - Common Style
       -Preloader
-  
+
   - Navigation
-  - Intro 
-  - About 
+  - Intro
+  - About
   - Service
   - Portfolio
   - Review
@@ -104,12 +104,12 @@ ul {
 }
 
 .icons-header {
-    display: flex;
-	justify-content: center;
+	display: flex;
+	justify-content: space-between;
 	font-size: 40px;
+	width: 20%;
+	margin: auto;
 }
-
-
 
 .stitle {
 	text-align: center;
@@ -411,7 +411,7 @@ ul {
 
 
 /* ====================
-	Intro Section 
+	Intro Section
 =======================*/
 
 .intro-section {
@@ -509,7 +509,7 @@ ul {
 
 
 /* ====================
-	About Section 
+	About Section
 =======================*/
 
 .about-content {
@@ -537,7 +537,7 @@ ul {
 
 
 /* ====================
-	Services Section 
+	Services Section
 =======================*/
 
 .services-section {
@@ -560,7 +560,7 @@ ul {
 
 
 /* ====================
-	Portfolio Section 
+	Portfolio Section
 =======================*/
 
 .portfolio-filter {
@@ -650,7 +650,7 @@ ul {
 
 
 /* ====================
-	Review Section 
+	Review Section
 =======================*/
 
 .review-section {
@@ -714,7 +714,7 @@ ul {
 
 
 /* ====================
-	Promotion Section 
+	Promotion Section
 =======================*/
 
 .promotion-section {
@@ -810,7 +810,7 @@ ul {
 
 
 /* ====================
-	Contact Section 
+	Contact Section
 =======================*/
 
 .contact-info {
@@ -909,7 +909,7 @@ ul {
 
 
 /* ====================
-	Footer Section 
+	Footer Section
 =======================*/
 
 .footer-section {

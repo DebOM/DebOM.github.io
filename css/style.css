@@ -99,7 +99,7 @@ ul {
 }
 
 .spad {
-	padding-top: 80px;
+	padding-top: 30px;
 	padding-bottom: 80px;
 }
 
@@ -136,7 +136,7 @@ ul {
 	border: 2px solid #555555;	
 	border-radius: 4px;
 	height: 40px;
-	padding-top: 11px;
+	/* padding-top: 11px; */
 }
 .buttonResume:hover {
     color: black;
@@ -558,13 +558,10 @@ ul {
 	color: #333;
 }
 
-.social {
-	margin-top: 30px;
-}
 
 .social a {
 	font-size: 40px;
-	margin: 10px;
+	margin: 30px 10px;
 	color: #333;
 }
 

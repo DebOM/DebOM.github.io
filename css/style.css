@@ -477,7 +477,7 @@ ul {
 	height: 100%;
 	width: 100%;
 	background-image: url(../img/bg.jpg);
-	background-repeat: no-repeat;
+	background-repeat: round;
 	background-size: cover;
 	background-attachment: fixed;
 }

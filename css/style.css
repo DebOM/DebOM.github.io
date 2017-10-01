@@ -114,6 +114,9 @@ ul {
 .portfolio-meta {
     display: flex;
 	justify-content: space-evenly;
+	margin-bottom: 10px;
+	padding-bottom: 20px;
+	border-bottom: solid 2px;
 }
 .stitle {
 	text-align: center;
